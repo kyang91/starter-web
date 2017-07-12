@@ -16,6 +16,7 @@ this is a simple web project, deployment can .
 
 ## How to Contribute
 
+please fork this repo and iss pull requests for review.
 
 ## Copyright
 
