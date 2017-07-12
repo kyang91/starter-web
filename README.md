@@ -15,3 +15,8 @@ as stated above, the main purpose is to provide simple examples for git training
 this is a simple web project, deployment can .
 
 ## How to Contribute
+
+
+## Copyright
+
+2014 git.training.
