@@ -6,3 +6,9 @@
     jason  taylor jason@git.training @jasontwit
 
     asdf  asdf jason@git.sdfg @sdfg
+
+# THANKS
+	all my students
+# Technoclogy colophon
+	html4, css3
+	jquery, modernizer
