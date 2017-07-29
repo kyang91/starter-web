@@ -9,6 +9,7 @@
 
 # THANKS
 	all my students
+leave reviews
 # Technoclogy colophon
 	html4, css3
 	jquery, modernizer
