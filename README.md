@@ -22,4 +22,4 @@ please fork this repo and iss pull requests for review.
 
 ## Copyright
 
-2014 git.training.
+2014 git.training. aLL RIGHTS RESERVED
