@@ -13,3 +13,4 @@ leave reviews
 # Technoclogy colophon
 	html4, css3
 	jquery, modernizer
+	git
